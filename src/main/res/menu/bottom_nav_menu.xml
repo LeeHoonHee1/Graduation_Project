@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_star1"
+        android:title="⭐" />
+    <item
+        android:id="@+id/navigation_star2"
+        android:title="⭐⭐" />
+    <item
+        android:id="@+id/navigation_star3"
+        android:title="⭐⭐⭐" />
+    <item
+        android:id="@+id/navigation_share"
+        android:icon="@drawable/icon_share"
+        android:title="공유" />
+    <item
+        android:id="@+id/navigation_health"
+        android:icon="@drawable/icon_health"
+        android:title="헬스" />
+</menu>
